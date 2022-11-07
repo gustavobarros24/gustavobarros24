@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Gustavo Barros
+- 🇵🇹 Trofa, Porto, Portugal
+- 🎓 Currently studying Computer Science & Engineering at University of Minho
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavobarros24&show_icons=true&theme=dark)
 
