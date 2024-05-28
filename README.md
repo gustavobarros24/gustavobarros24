@@ -28,4 +28,4 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTYTViLOLWKP14-kTZgwGXQ) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gustavobarros24&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gustavobarros24&icon=3&color=0)](https://visitcount.itsvg.in
