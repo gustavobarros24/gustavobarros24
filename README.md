@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giffiles.alphacoders.com/133/13363.gif" width=200/>
-
+  <img src="https://giffiles.alphacoders.com/133/13363.gif" style="width: 800px;" />
+  
 </div>
 
 # About Me:
