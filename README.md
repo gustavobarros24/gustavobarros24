@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://giffiles.alphacoders.com/133/13363.gif" width=800/>
+
+</div>
+
 # About Me:
 - 👋 Hi, I’m Gustavo Barros<br>
 - 🇵🇹 Trofa, Porto, Portugal<br>
