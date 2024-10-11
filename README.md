@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giffiles.alphacoders.com/133/13363.gif" style="width: 800px;" />
+  <img src="https://giffiles.alphacoders.com/133/13363.gif" style="width: 728px;" />
   
 </div>
 
