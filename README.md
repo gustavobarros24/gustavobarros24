@@ -18,6 +18,7 @@
 ![Prolog](https://img.shields.io/badge/Prolog-002050?style=for-the-badge&logo=prolog&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-red?style=for-the-badge&logo=matlab&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-%23512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 # 🛠️ Tools:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
@@ -25,6 +26,15 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/%20IntelliJ%20IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GNUBash](https://img.shields.io/badge/GNU%20Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%23008DE4?style=for-the-badge)
+![VisualStudio](https://img.shields.io/badge/Visual%20Studio-%239146FF?style=for-the-badge)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarros24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
