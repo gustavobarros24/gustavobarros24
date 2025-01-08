@@ -35,10 +35,8 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%23008DE4?style=for-the-badge)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-%239146FF?style=for-the-badge)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarros24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=gustavobarros24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavobarros24) 
