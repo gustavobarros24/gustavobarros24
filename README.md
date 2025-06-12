@@ -44,7 +44,7 @@
 ![KNIME](https://img.shields.io/badge/KNIME-%23FDD800?style=for-the-badge&logo=knime&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarros24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarros24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&hide=roff)<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavobarros24) 
