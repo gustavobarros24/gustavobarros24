@@ -25,6 +25,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![VUEJS](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![CUDA](https://img.shields.io/badge/Cuda-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![SYCL](https://img.shields.io/badge/SYCL-%23ED5B26?style=for-the-badge&logoColor=white)
 
 # 🛠️ Tools:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
@@ -48,6 +49,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%232F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)
+![NVIDIA Nsight Systems](https://img.shields.io/badge/NVIDIA%20Nsight%20Systems-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![VTune](https://img.shields.io/badge/VTune-%230071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Intel Advisor](https://img.shields.io/badge/Intel%20Advisor-%230071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarros24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&hide=roff,tex)<br/>
